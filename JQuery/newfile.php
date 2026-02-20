@@ -1,3 +1,3 @@
-<?php 
-echo"This the project which i have uploaded on the github it was our parctice to add the project on the github";
+<?php
+echo"Above is the project which i have uploaded as a practice to upload it on the github";
 ?>
